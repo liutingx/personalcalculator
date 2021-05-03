@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/personalcalculator/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/personalcalculator/static/js/main.d1a56d0f.chunk.js",
+    "main.js.map": "/personalcalculator/static/js/main.d1a56d0f.chunk.js.map",
+    "runtime-main.js": "/personalcalculator/static/js/runtime-main.1f7ebe40.js",
+    "runtime-main.js.map": "/personalcalculator/static/js/runtime-main.1f7ebe40.js.map",
+    "static/js/2.cd9adacd.chunk.js": "/personalcalculator/static/js/2.cd9adacd.chunk.js",
+    "static/js/2.cd9adacd.chunk.js.map": "/personalcalculator/static/js/2.cd9adacd.chunk.js.map",
+    "static/js/3.fbff5740.chunk.js": "/personalcalculator/static/js/3.fbff5740.chunk.js",
+    "static/js/3.fbff5740.chunk.js.map": "/personalcalculator/static/js/3.fbff5740.chunk.js.map",
+    "index.html": "/personalcalculator/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/personalcalculator/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.cd9adacd.chunk.js.LICENSE.txt": "/personalcalculator/static/js/2.cd9adacd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1f7ebe40.js",
+    "static/js/2.cd9adacd.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.d1a56d0f.chunk.js"
+  ]
+}
